@@ -1,0 +1,22 @@
+/*去掉标签默认样式*/
+body,h1,h2,h3,h4,h5,h6,p,pre,ul,ol,li,form,input,textarea,dl,dt,dd
+	{
+	margin:0;
+	padding:0;
+	}
+	img{
+	border:0;
+	}
+	ul,ol{
+	list-style-type:none;
+	}
+	a{
+	text-decoration:none;
+	}
+body
+	{
+	background:#fff;
+	}
+	*{
+	font-family:"微软雅黑";
+	}
